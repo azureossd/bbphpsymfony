@@ -1358,9 +1358,9 @@ boolbase@^1.0.0, boolbase@~1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz"
 
-bootstrap-sass@^3.3.7:
-  version "3.4.1"
-  resolved "https://registry.npmjs.org/bootstrap-sass/-/bootstrap-sass-3.4.1.tgz"
+bootstrap-sass@^3.4.3:
+  version "3.4.3"
+  resolved "https://registry.yarnpkg.com/bootstrap-sass/-/bootstrap-sass-3.4.3.tgz#742cc8f4286303ae9fe8e4c95237321eae73766c"
 
 bootstrap-tagsinput@^0.7.1:
   version "0.7.1"
