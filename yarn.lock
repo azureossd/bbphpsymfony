@@ -1950,9 +1950,9 @@ core-js-compat@^3.7.0:
     browserslist "^4.14.6"
     semver "7.0.0"
 
-core-js@^3.0.0:
-  version "3.7.0"
-  resolved "https://registry.npmjs.org/core-js/-/core-js-3.7.0.tgz"
+core-js@^3.49.0:
+  version "3.49.0"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.49.0.tgz#8b4d520ac034311fa21aa616f017ada0e0dbbddd"
 
 core-util-is@~1.0.0:
   version "1.0.2"
