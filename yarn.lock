@@ -1370,9 +1370,9 @@ bootstrap@^3.3:
   version "3.4.1"
   resolved "https://registry.npmjs.org/bootstrap/-/bootstrap-3.4.1.tgz"
 
-bootswatch@^3.3.7:
-  version "3.4.1"
-  resolved "https://registry.npmjs.org/bootswatch/-/bootswatch-3.4.1.tgz"
+bootswatch@^5.3.8:
+  version "5.3.8"
+  resolved "https://registry.yarnpkg.com/bootswatch/-/bootswatch-5.3.8.tgz#534538ce50285e52cb715823f8b4d734f73956e7"
 
 brace-expansion@^1.1.7:
   version "1.1.11"
